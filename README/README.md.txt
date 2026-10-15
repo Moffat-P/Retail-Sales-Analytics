@@ -1,7 +1,7 @@
 
 ## Dashboard Preview
 
-![Retail Sales Performance Dashboard](screenshots/dashboard.png)
+![Retail Sales Performance Dashboard](screenshots/dashboard.png.png)
 
 
 # Retail Sales Performance Analysis
